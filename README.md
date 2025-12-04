@@ -23,5 +23,5 @@ This project analyzes a retail store’s customer data to identify customer segm
   - KPIs  
   - Top 5 category filters with filter pane  
   - Button slicer visual  
-
+  - added Toolpits
 
