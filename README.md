@@ -72,12 +72,12 @@ Dashboard highlights:
 Advanced visual elements:
 ⭐ Gauge metrics  
 ⭐ Button-based slicers  
-⭐ Drill-down filters  
 ⭐ Visual-level filtering for top categories  
 ⭐ Target comparison lines  
 ⭐ Date-based slicers (year, month, day, quarter)
 
 Refer to this screenshot inside `/dashboard` folder:
+![Dashboard Preview](dashboard/Segmentation_Dashboard_Overview.png)
 
 
 ---
