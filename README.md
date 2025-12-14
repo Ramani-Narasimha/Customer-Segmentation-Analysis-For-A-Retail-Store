@@ -77,8 +77,6 @@ Advanced visual elements:
 ⭐ Target comparison lines  
 ⭐ Date-based slicers (year, month, day, quarter)
 
-Refer to this screenshot inside `/dashboard` folder:
-dashboard
 
 ---
 
