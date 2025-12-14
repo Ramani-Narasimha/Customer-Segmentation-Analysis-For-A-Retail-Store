@@ -65,7 +65,7 @@ and more
 Dashboard highlights:
 - Total revenue and profit metrics
 - Category-wise spending patterns
-- Top-performing Products
+- Top-performing Products by age group
 - Age-wise spending behavior
 - Loyalty-based customer segmentation
 
