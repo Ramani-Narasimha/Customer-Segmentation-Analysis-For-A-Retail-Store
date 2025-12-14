@@ -113,8 +113,7 @@ scripts/
 │── Customer_Metrics_Queries.sql
 
 dashboard/
-│── Customer_Segmentation_Dashboard.pbix
-│── Segmentation_Dashboard_Overview.png
+│── Dashboard Screenshot.png
 
 
 
